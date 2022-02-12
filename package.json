@@ -1,0 +1,17 @@
+{
+  "name": "cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
